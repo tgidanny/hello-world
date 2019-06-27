@@ -7,3 +7,5 @@ This is a brief statement about myself. I enjoy stuff. I often do stuff as well!
  <h2>HELLO THERE</h2>
  <h3>smaller hello there</h3>
  <div style="background:#ddd;padding:10px;">testing divs and stuff here.</div>
+ <a href="#">this is a link</a>
+ <a href="#" class="btn btn-primary">this is a link with bs class</a>
